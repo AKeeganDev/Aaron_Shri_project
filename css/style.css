@@ -1,5 +1,23 @@
+@media only screen and (min-width: 1px) {
+    body {
+      background-color: #303841;
+      color: #F0F0F0;
+    }
+  }
+
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+}
+
+a {
+    color:#F0F0F0;
+}
+
+#welcome-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
