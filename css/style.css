@@ -34,9 +34,16 @@
   color: white;
   display: block;
   padding: 30px 22px;
-  border-radius: 20px;
+  border-radius: 10px;
   text-decoration: none;
 }
+#navbar ul li a :hover{
+    color: white;
+    display: block;
+    padding: 30px 22px;
+    border-radius: 10px;
+    text-decoration: none;
+  }
 ul {
   list-style-type: none;
   margin: 0;
